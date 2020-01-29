@@ -134,5 +134,5 @@ while keep_going:
     else:
         print("*** NOT A VALID CHOICE ***\n")
         
-print("Goodbye.")      bbbbbgghhbbhhhfgjdtehfdcbvvnbnmm,,../?
+print("Goodbye.")      
         
