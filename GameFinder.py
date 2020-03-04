@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# GameFinder.py
+# GameFinder.py        self.genre_var = BooleanVar(self)       self.tkvar.set(self.games[0])
 # Connor Gray
 # 1/27/2020
 
@@ -33,8 +33,8 @@ def edit():
     key_list = games.keys()
     valid = False
     for key in key_list:
-      print("")
-      print("Current Games: ", games[key][0]+ ", " +games[key][1])   
+        print("")
+        print("Current Games: ", games[key][0]+ ", " +games[key][1])   
     
     game = int(input("What game would you like to edit: "))
     if game in games:
